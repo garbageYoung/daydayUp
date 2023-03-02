@@ -1,1 +1,1 @@
-global abs;
+global abs; guozhen
